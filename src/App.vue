@@ -37,25 +37,25 @@ import ZionHeader from './components/ZionHeader.vue'
         <div class="row px-10 " style="">
             <div class="col-sm-2 col-md-3 col-lg-4 ">
                 <!--/resume-website/-->
-                <img class="d-flex flex-column" src="/images/profile/2019_w_profile.jpg" style="width:180px;height:200px;  "> </br>
+                <img class="d-flex flex-column" src="/images/profile/2019_w_profile.jpg" style="width:180px;height:200px;  ">
                 2019
             </div>
             <div class="col-sm-2 col-md-3 col-lg-4 one_profile">
-                <img src="/images/profile/2020_w_profile.jpg" style="width:180px;height:200px"> </br>
+                <img src="/images/profile/2020_w_profile.jpg" style="width:180px;height:200px"> 
                 2020
             </div>
             <div class="col-sm-2 col-md-3 col-lg-4 one_profile">
-                <img src="/images/profile/2021_w_profile.jpg" style="width:180px;height:200px"> </br>
+                <img src="/images/profile/2021_w_profile.jpg" style="width:180px;height:200px"> 
                 2021
             </div>
             
             <div class=" col-sm-2 col-md-3 col-lg-4 one_profile">
-                <img src="/images/profile/2022_w_profile.jpg" style="width:180px;height:200px"> </br>
+                <img src="/images/profile/2022_w_profile.jpg" style="width:180px;height:200px"> 
                 2022
             </div>
 
             <div class="col one_profile">
-                <img src="/images/profile/comming_soon.png" style="width:180px;height:200px"> </br>
+                <img src="/images/profile/comming_soon.png" style="width:180px;height:200px">
                 2023
             </div>
         
