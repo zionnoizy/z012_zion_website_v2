@@ -1,36 +1,22 @@
-
-
 <template>
-    <p>test123</p>
-    <ZionHeader></ZionHeader>
-
-    <div class="App">
-        
-        <p>test123</p>
-        
+    <div class="Empty">
+        <p>test0000</p>
     </div>
-  
-
-    <ZionFooter></ZionFooter>
-
-
-  
 </template>
-
-
 
 <script>
 import ZionFooter from '@/components/ZionFooter.vue'
 import ZionHeader from '@/components/ZionHeader.vue'
+
 export default {
-  name: 'app',
-  components: {
+name: 'Empty',
+components: {
+
     ZionFooter,
     ZionHeader,
-  }
+}
 }
 </script>
 
-<style>
 
-</style>
+

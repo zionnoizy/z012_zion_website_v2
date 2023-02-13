@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="ZionFooter">
 
     <div class="about_me">
             <!--https://www.youtube.com/watch?v=MBaw_6cPmAw-->
@@ -42,4 +42,11 @@
   
   
 <script>
+export default {
+  name: 'ZionFooter',
+  components: {
+
+
+  }
+}
 </script>
