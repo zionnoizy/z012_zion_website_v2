@@ -1,20 +1,15 @@
 <template>
-    <div class="Empty">
-        <p>test0000</p>
+    <div class="empty">
+
+        <p>[unknown99]</p>
+        <p>Empty Redirection Page.</p>
     </div>
 </template>
 
+
 <script>
-import ZionFooter from '@/components/ZionFooter.vue'
-import ZionHeader from '@/components/ZionHeader.vue'
-
-export default {
-name: 'Empty',
-components: {
-
-    ZionFooter,
-    ZionHeader,
-}
+export default{
+    name: 'empty',
 }
 </script>
 
